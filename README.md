@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--Technical Skills-->
-<h1>Technical Skills 🛠</h1>
+<h1>Have worked in 🛠</h1>
 
 <p align="center">
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -60,6 +60,7 @@ Here are some ideas to get you started:
     <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://shields.io/badge/-php-9cf" alt="PHP"/>
     <!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> -->
     <img alt="UNITY" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
     <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -84,7 +85,7 @@ Here are some ideas to get you started:
 ## Quick Overview 📝
 
 <p align="center"> 
-    <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WinRAUL&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
+    <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WinRAUL&show_icons=true&include_all_commits=true&theme=blue-green" alt="Rahul's github stats" />
     <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinRAUL&theme=Blue" alt="Rahul Chamoli" />
     <p align="center">
     <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WinRAUL&layout=compact&theme=Blue" alt="Rahul Singh Chaudhary" />
