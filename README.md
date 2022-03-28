@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
-**WinRAUL-26/Rahul Chamoli-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**WinRAUL/WinRAUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Rahul Chamoli 
-<h2 align="center">Tech learner| |Developer(2D/3D Game + Web front-end)| |DevOps practitioner</h2>
+<h2 align="center">Tech Enthusiast| |</h2>
 <div>
 <img align="center" alt="Skills" width="100%" src="https://github.com/WinRAUL/WinRAUL/blob/main/assets/skills.gif">
 </div>
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
   <p>&nbsp;</p>
 <h3>In learning phase...</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Everything Possible**
 
 <!-- 👨‍💻 All of my projects are available at [abc](abc)-->
 
@@ -85,9 +84,9 @@ Here are some ideas to get you started:
 
 <p align="center"> 
     <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WinRAUL&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
-    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinRAUL-26&theme=dracula" alt="Rahul Chamoli" />
+    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinRAUL&theme=dracula" alt="Rahul Chamoli" />
     <p align="center">
-    <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WinRAUL-26&layout=compact&theme=dracula" alt="Rahul Singh Chaudhary" />
+    <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WinRAUL&layout=compact&theme=dracula" alt="Rahul Singh Chaudhary" />
     </p>
 </p>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
