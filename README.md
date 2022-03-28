@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 </p>
 
 ![Rahul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WinRAUL&theme=Blue)
+![Unicorn](https://raw.github.com/williambelle/github-contribution-color-graph/master/docs/contributions-unicorn.png)
 <!-- 
 ![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=WinRAUL)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
