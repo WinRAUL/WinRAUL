@@ -74,7 +74,7 @@ Here are some ideas to get you started:
     <img alt="MICROSOFT SHAREPOINT" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
 </p>
 
-![Rahul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WinRAUL&theme=dracula)
+![Rahul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WinRAUL&theme=Blue)
 <!-- 
 ![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=WinRAUL)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
@@ -84,9 +84,9 @@ Here are some ideas to get you started:
 
 <p align="center"> 
     <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WinRAUL&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
-    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinRAUL&theme=dracula" alt="Rahul Chamoli" />
+    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinRAUL&theme=Blue" alt="Rahul Chamoli" />
     <p align="center">
-    <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WinRAUL&layout=compact&theme=dracula" alt="Rahul Singh Chaudhary" />
+    <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WinRAUL&layout=compact&theme=Blue" alt="Rahul Singh Chaudhary" />
     </p>
 </p>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
