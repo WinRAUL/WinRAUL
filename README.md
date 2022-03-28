@@ -25,24 +25,25 @@ Here are some ideas to get you started:
 </div>
   
   <p>&nbsp;</p>
-<h3>In learning phase...</h3>
+<h3>Still Learning...</h3>
 
-- 🌱 I’m currently learning **Everything Possible**
+- 🌱 I’m currently learning **ReactJS**
 
 <!-- 👨‍💻 All of my projects are available at [abc](abc)-->
 
-- 📫 How to reach me **rahul.chamoli.12@gmail.com**
+- 📫 reach me @**rahul.chamoli.12@gmail.com**
 
 <!-- 📄 Know about my experiences [abc](abc)-->
 
-- ⚡ Fun fact **There is no such thing as _______**
+- ⚡  Reminder: **Are you hydrated ?**  , Keep calm and be hydarated 🥤
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rahul-chamoli-02666b202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abc" height="30" width="40" /></a>
-<!-- <a href="https://www.facebook.com/pawansingh1894509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abc" height="30" width="40" /></a> -->
-<!-- <a href="https://www.instagram.com/pawan_singh_chaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abc" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerearth.com/@pawansingh1894509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abc" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/rahul-chamoli-02666b202/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abc" height="30" width="40" /></a>
+<!-- <a href="https://www.facebook.com/pawansingh1894509" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abc" height="30" width="40" /></a> -->
+<a href="https://www.instagram.com/winraul/" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/01/21/00/icon-1562136__340.png" alt="Instagram" height="30" width="40" /></a>
+<a href="mailto:someone@example.com" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841__340.png" alt="Gmail" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/@pawansingh1894509" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abc" height="30" width="40" /></a> -->
 </p>
 
 <!--Technical Skills-->
@@ -75,9 +76,6 @@ Here are some ideas to get you started:
 </p>
 
 ![Rahul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WinRAUL&theme=Blue)
-![Unicorn](https://raw.github.com/williambelle/github-contribution-color-graph/master/docs/contributions-unicorn.png)
-<!-- 
-![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=WinRAUL)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <!--Github Progess bar-->
