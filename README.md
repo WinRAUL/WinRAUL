@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Rahul Chamoli 
 <h2 align="center">Tech Enthusiast | Calm & Happy | EDM Lover</h2>
 <p align= "center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="30" width="40" />
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="30" width="40" />
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="30" width="40" />
 </p>
 
 <div>
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <!-- <img alt="VISUAL STUDIO" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /> -->
     <!-- <img alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" /> -->
-    <img alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+    <!-- <img alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /> -->
     <!-- <img alt="MICROSOFT WORD" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
     <img alt="MICROSOFT POWERPOINT" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img alt="MICROSOFT EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
     <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WinRAUL&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
     <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinRAUL&theme=Blue" alt="Rahul Chamoli" />
     <p align="center">
-    <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WinRAUL&layout=compact&theme=Blue" alt="Rahul Singh Chaudhary" />
+    <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WinRAUL&layout=compact&theme=Blue" alt="Rahul" />
     </p>
 </p>
 <h2  align="center">💻 My Repos ⬇️ </h2>
