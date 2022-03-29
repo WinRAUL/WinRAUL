@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Rahul Chamoli 
 <h2 align="center">Tech Enthusiast | Calm & Happy | EDM Lover</h2>
 <p align= "center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="30" width="40" />
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="30" width="40" />
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="30" width="40" />
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
 </p>
 
 <div>
