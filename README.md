@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 
 
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Rahul Chamoli 
-<h2 align="center">Tech Enthusiast| |</h2>
+<h2 align="center">Tech Enthusiast| Calm & | EDM Lover</h2>
+<p>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif">
+</p>
 <div>
 <img align="center" alt="Skills" width="100%" src="https://github.com/WinRAUL/WinRAUL/blob/main/Assets/Rahul.gif">
 </div>
