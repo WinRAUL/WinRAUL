@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Rahul Chamoli 
 <h2 align="center">Tech Enthusiast | Calm & Happy | EDM Lover</h2>
-<p align= "center">
+<!-- <p align= "center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
-</p>
+</p> -->
 
 <div>
 <img align="center" alt="Skills" width="100%" src="https://github.com/WinRAUL/WinRAUL/blob/main/Assets/Rahul.gif">
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - ⚡  Reminder: **Are you hydrated ?**  , Keep calm and be hydarated 🥤
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rahul-chamoli-02666b202/" target="_blank">
