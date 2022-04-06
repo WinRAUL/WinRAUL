@@ -16,19 +16,12 @@ Here are some ideas to get you started:
 
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Rahul Chamoli 
 <h2 align="center">Tech Enthusiast | Calm & Happy | EDM Lover</h2>
-<<<<<<< HEAD
+
 <!-- <p align= "center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
 </p> -->
-=======
-<p align= "center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="35" >
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="35" >
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="35" >
-</p>
->>>>>>> cdd715d42536b053f5e988538f643759f080ceec
 
 <div>
 <img align="center" alt="Skills" width="100%" src="https://github.com/WinRAUL/WinRAUL/blob/main/Assets/Rahul.gif">
