@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 # Hi, I'm Rahul Chamoli 
-<h2 align="center">Tech Enthusiast | Calm & Happy | EDM Lover</h2>
+<h2 align="center">Tech Enthusiast | EDM Lover</h2>
 
 <!-- <p align= "center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <hr>
 <h3>Still Learning...</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+<!-- - 🌱 I’m currently learning **ReactJS** -->
 
 <!-- 👨‍💻 All of my projects are available at [abc](abc)-->
 
@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 <!-- 📄 Know about my experiences [abc](abc)-->
 
-- ⚡  Reminder: **Are you hydrated ?**  , Keep calm and be hydarated 🥤
+- ⚡  Reminder: **Are you hydrated ?**  , Keep calm and stay hydarated 🥤
 <br>
-<h3 align="left">Connect me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rahul-chamoli-02666b202/" target="_blank">
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--Technical Skills-->
-<h1>Have worked with 🛠</h1>
+<h1>🛠</h1>
 
 <p align="center">
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -97,8 +97,3 @@ Here are some ideas to get you started:
     </p>
 </p>
 <h2  align="center">💻 My Repos ⬇️ </h2>
-
-
-
-
-
